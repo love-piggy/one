@@ -1,0 +1,10 @@
+SQL> select sal from scott.emp where job='SALESMAN';
+
+       SAL                                                                      
+----------                                                                      
+      1600                                                                      
+      1250                                                                      
+      1250                                                                      
+      1500                                                                      
+
+SQL> spool out
