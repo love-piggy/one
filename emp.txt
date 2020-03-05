@@ -8,3 +8,4 @@ SQL> select sal from scott.emp where job='SALESMAN';
       1500                                                                      
 
 SQL> spool out
+piggy
